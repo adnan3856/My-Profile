@@ -862,6 +862,14 @@ a:hover {
   line-height: 1.6;
 }
 
+.modal-dialog {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 80%;
+  /* min-height: calc(100% - 60px); Adjust as needed */
+}
+
 /*======================================
 //--//-->   BLOG
 ======================================*/
